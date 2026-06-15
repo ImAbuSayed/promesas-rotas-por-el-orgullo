@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-rotas-por-el-orgullo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Promesas rotas por el orgullo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-rotas-por-el-orgullo/) |
+| **Get License** | [Get License For Promesas rotas por el orgullo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-rotas-por-el-orgullo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, yo sé que el orgullo nos separó
+> Pero en la disco sigo buscando tu olor
+> Toda promesa con la noche se rompió
+> Quiero tenerte y curar este gran dolor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
