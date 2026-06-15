@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas rotas por el orgullo
+
+This log tracks the cryptographic history and versioning for the song **Promesas rotas por el orgullo** (promesas-rotas-por-el-orgullo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T10:54:17.916225 | `v1` | `5ecdd2757c86dc72b270ffb7b359e8be20c308106993a4f86906d229ab780618` | `e24e21f4f26ba8c74819474a3dc68558743a7e738a8f772864806e85e4152803` | `2026-06-15_promesas-rotas-por-el-orgullo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

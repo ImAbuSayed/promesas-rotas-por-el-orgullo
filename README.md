@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-rotas-por-el-orgullo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Promesas rotas por el orgullo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-rotas-por-el-orgullo/) |
+| **Get License** | [License this song: Promesas rotas por el orgullo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-rotas-por-el-orgullo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5ecdd2757c86dc72b270ffb7b359e8be20c308106993a4f86906d229ab780618` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
